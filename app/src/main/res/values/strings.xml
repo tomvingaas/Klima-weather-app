@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Klima</string>
+    <string name="default_location">henter posisjon</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description">Trykk her for å endre by</string>
+    <string name="weather_description">Værsymbol</string>
+    <string name="back_button_description">Tilbake</string>
+    <string name="get_weather">Endre By</string>
+    <string name="default_query">Skriv inn Bynavn</string>
+
+</resources>
